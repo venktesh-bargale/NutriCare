@@ -11,7 +11,7 @@
         <item name="colorSurface">@color/surface</item>
         <item name="colorOnPrimary">@color/white</item>
         <item name="colorOnSecondary">@color/white</item>
-        <item name="colorOnBackground">@color/gray_900</color>
+        <item name="colorOnBackground">@color/gray_900</item>
         <item name="colorOnSurface">@color/gray_900</item>
         <item name="colorOnError">@color/white</item>
     </style>

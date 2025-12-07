@@ -4,7 +4,14 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.nutricare.data.models.*
+import com.nutricare.data.models.DailyGoal
+import com.nutricare.data.models.FoodItem
+import com.nutricare.data.models.Meal
+import com.nutricare.data.models.MealFood
+import com.nutricare.data.models.NutrientData
+import com.nutricare.data.models.User
+import com.nutricare.data.models.UserPreferences
+import com.nutricare.data.models.WeeklyStats
 import com.nutricare.util.Constants
 
 @Database(
