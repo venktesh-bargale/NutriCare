@@ -16,7 +16,7 @@
             android:textSize="20sp"
             android:textStyle="bold" />
 
-        <com.github.PhilJay.chartlib.charts.LineChart
+        <com.github.mikephil.charting.charts.LineChart
             android:id="@+id/chart_calories"
             android:layout_width="match_parent"
             android:layout_height="300dp"
